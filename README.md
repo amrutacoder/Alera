@@ -1,6 +1,6 @@
-Alera – Your Personal Health Companion 💊🏋️‍♂️💧
+Alera – Your Personal Health Companion 
 
-Alera is a feature-rich mobile application built with Flutter and powered by Firebase, designed to make health tracking simple and effortless.
+# Alera is a feature-rich mobile application built with Flutter and powered by Firebase, designed to make health tracking simple and effortless.
 
 ✨ Key Features
 
